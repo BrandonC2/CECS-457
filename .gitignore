@@ -1,0 +1,52 @@
+# DATA / DATASETS
+
+**/data/
+**/cifar10/
+
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# PYTHON
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.env*/
+my_env/
+
+# JUPYTER / ML OUTPUTS
+
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+runs/
+wandb/
+
+# OS / EDITORS
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# MISC
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
